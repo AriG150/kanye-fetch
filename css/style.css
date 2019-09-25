@@ -1,3 +1,15 @@
 h1 {
-  background: chartreuse;
+  background: rgb(145, 228, 224);
+  text-align: center;
+}
+
+h2{
+  background: rgb(115, 70, 173);
+  text-align: center;
+  
+}
+
+p{
+  text-align: center;
+  font-size: large;
 }
